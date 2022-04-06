@@ -1,5 +1,8 @@
 # Análise de Incêndios Florestais
 
+[![NPM](https://img.shields.io/github/license/tvlemes/analise-incendios-florestais)](https://github.com/tvlemes/analise-incendios-florestais/blob/main/LICENSE)
+
+
 Este repositório contém a análise de incêndios florestais ocorridos no Brasil entre os anos de 1997 e 2017.
 
 ## Gráfico com total de incêndios no Brasil: 1997 - 2017

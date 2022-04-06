@@ -5,6 +5,8 @@
 
 Este repositório contém a análise de incêndios florestais ocorridos no Brasil entre os anos de 1997 e 2017.
 
+A base de dados pode ser encontrada no arquivo Dados_Incendio.csv. 
+
 ## Gráfico com total de incêndios no Brasil: 1997 - 2017
 ![](/images/total_incendios_brasil.png )
 
